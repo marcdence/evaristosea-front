@@ -77,7 +77,7 @@ export default {
     '@nuxtjs/auth',
   ],
   axios: {
-    baseURL: process.env.BASE_URL_DEV
+    baseURL: https://17fc-49-145-210-206.ap.ngrok.io
   },
 
   // Modules: https://go.nuxtjs.dev/config-modules
